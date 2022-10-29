@@ -1,0 +1,49 @@
+.CategoriesContainer {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 16px;
+    padding-top: 16px
+}
+
+.Heading {
+    color: #000;
+    font-weight: 600;
+    margin: 0
+}
+
+.FilterText {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8px
+}
+.FilterText img{
+    width:20px ;
+    height: 25px;
+}
+.Categories {
+    background-color: #F2F6FF;
+    padding: 6px 14px;
+    Width: auto;
+    color: #0084ff;
+    border-radius: 15px;
+    Border: 1px solid #0084ff;
+    margin: 5px;
+    Cursor: pointer
+}
+
+.Categories:focus {
+    color: #fff;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 6px 14px;
+    Width: auto;
+    Border: 1px solid #0084ff;
+    background-color: #0084ff
+}
+.container{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}

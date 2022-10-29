@@ -1,0 +1,75 @@
+main {
+    box-align: center;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 16px;
+    display: inline-block;
+    padding-top: 16px
+}
+
+.Item {
+    Width: 29%;
+    float: left;
+    box-align: center;
+    margin: 20px;
+    border-radius: 5%;
+    border: 1px rgb(142, 219, 249);
+    box-shadow: 5px 5px 5px #a5bbf0;
+    box-sizing: content-box;
+    height: 420px;
+    overflow: hidden;
+    
+}
+.Item:hover{
+  padding: 5px;
+}
+
+.ImageSection {
+
+    Height: 176px;
+    Width:100% ;
+}
+
+.Image {
+    Width: 100%;
+    Height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.TextSection {
+    padding: 10px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.43;
+    color: rgba(0, 0, 0, .6);
+   
+    margin: 4px 0
+   
+}
+
+.Title {
+    font-size: 18px;
+    text-align: left;
+    margin: 10px;
+    font-weight: 600;
+}
+
+.AuthorContainer {
+    padding-top: 4px;
+    margin: 10px;
+}
+
+.Author {
+    color: #0096ff;
+    font-size: 14px;
+    font-style: Italic;
+    font-weight: 500
+}
+
+.Date {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    font-weight: 300
+}
